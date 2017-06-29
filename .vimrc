@@ -65,6 +65,8 @@ Plugin 'matt-deacalion/vim-systemd-syntax'
 
 Plugin 'moll/vim-node'
 
+Plugin 'leafgarland/typescript-vim'
+
 Plugin 'jeroenbourgois/vim-actionscript'
 
 Plugin 'brainfuck-syntax'
