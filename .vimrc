@@ -39,8 +39,6 @@ Plugin 'tpope/vim-haml'
 
 Plugin 'vim-ruby/vim-ruby'
 
-Plugin 'tpope/vim-rails'
-
 Plugin 'nono/jquery.vim'
 
 Plugin 'pangloss/vim-javascript'
